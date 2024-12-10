@@ -7,3 +7,9 @@
 /dataSources/
 /dataSources.local.xml
 .vercel
+# Ignore IDE-specific files
+.idea/
+
+# Ignore node_modules directory
+node_modules/
+
